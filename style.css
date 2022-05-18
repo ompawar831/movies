@@ -1,0 +1,21 @@
+.movies{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+.movies{
+    border:solid;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(67, 177, 177);
+}
+
+
